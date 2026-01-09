@@ -13,14 +13,14 @@
 - [How to locate your Windows Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+windows)  
 - [How to locate your Mac Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+mac)  
 
-### 🧑‍💻 VS Code  
+### <img src="Assets/VSCode-logo.jpeg" width="30" /> VS Code  
 ★ [Download VS Code (Free)](https://code.visualstudio.com/download)
 
-### 🐙 GitHub  
+### <img src="Assets/icone-github-noir.png" width="30" /> GitHub  
 ★ [Create a free GitHub account](https://github.com/signup)  
 
 ## 📋 Instructions  
-★ Once your tools are in place, follow all steps listed in this link:  [Interactive setup checklist](http://127.0.0.1:5500/index.html)  
+★ Once your tools are in place, follow all steps listed in this link:  [Interactive checklist](http://127.0.0.1:5500/index.html)  
 ★ These directions have been split up into micro-steps to assist your workflow.    
 ★ Use the interactive checklist to mark off each step as you follow along.  
 
