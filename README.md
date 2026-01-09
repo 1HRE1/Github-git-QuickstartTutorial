@@ -9,7 +9,7 @@
 
 ## 🛠 Tools
 ### 💻 Terminal (Mac / Windows)  
-★ Mac/Windows Terminal - This comes with most windows and mac computers. If you require assistance locating this app on your computer please review these steps below:    
+★ Mac/Windows Terminal: This comes with most windows and mac computers. If you require assistance locating the terminal app on your computer please review these steps below⤵️.     
 - [How to locate your Windows Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+windows)  
 - [How to locate your Mac Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+mac)  
 
@@ -20,9 +20,8 @@
 ★ [Create a free GitHub account](https://github.com/signup)  
 
 ## 📋 Instructions  
-★ Once your tools are in place, please click this link and follow all steps listed:  
-- [Interactive setup checklist](http://127.0.0.1:5500/index.html)  
-★ These directions have been split up into micro-steps to assist your workflow.  
+★ Once your tools are in place, follow all steps listed in this link:  [Interactive setup checklist](http://127.0.0.1:5500/index.html)  
+★ These directions have been split up into micro-steps to assist your workflow.    
 ★ Use the interactive checklist to mark off each step as you follow along.  
 
 ## 🚧 Project Status  
