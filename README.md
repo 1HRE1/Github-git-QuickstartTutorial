@@ -14,10 +14,10 @@
 ★ [How to locate your Mac Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+mac)  
 
 ### 🧑‍💻 VS Code  
-★ [Download VS Code (Free)](PASTE_VSCOhttps://code.visualstudio.com/downloadDE_LINK)
+★ [Download VS Code (Free)](https://code.visualstudio.com/download)
 
 ### 🐙 GitHub  
-★ [Create a free GitHub account](PASTE_GIhttps://github.com/signupTHUB_LINK)  
+★ [Create a free GitHub account](https://github.com/signup)  
 
 ## 📋 Instructions  
 ★ Once your tools are in place, please click this link and follow all steps listed:  
