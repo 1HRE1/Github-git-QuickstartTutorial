@@ -1,6 +1,6 @@
 # GitHub & Git Quickstart Tutorial 🚀
 
-#### The “Layman’s Terms” guide for setting up GitHub, using Git, pushing your code, and viewing it live in your browser‼️
+#### *The “Layman’s Terms” guide for setting up GitHub, using Git, pushing your code, and viewing it live in your browser‼️*
 
 ## 🎯 Goals
 ★ Go from “What is a terminal?” to “I just pushed my code!” in 10 minutes  
@@ -10,8 +10,8 @@
 
 ### 💻 Terminal (Mac / Windows)  
 ★ Mac/Windows Terminal: This comes with most windows and mac computers. If you require assistance locating this app on your computer please review these steps below:  
-    - [How to locate your Windows Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+windows)
-    - [How to locate your Mac Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+mac)
+     [How to locate your Windows Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+windows). 
+     [How to locate your Mac Terminal](https://www.google.com/search?q=how+to+locate+your+terminal+on+mac). 
 
 ### 🧑‍💻 VS Code  
 ★ [Download VS Code (Free)](PASTE_VSCOhttps://code.visualstudio.com/downloadDE_LINK)
@@ -27,5 +27,4 @@
 
 ## 🚧 Project Status  
 As of: 01/08/2026 - This is an active, evolving project and will be updated regularly.
-
-
+Cool
